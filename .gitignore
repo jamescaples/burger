@@ -1,2 +1,4 @@
-JAWSDB_URL=mysql://td77dcxb6s9gwy6s:c36epx4n64qnkfzt@dno6xji1n8fm828n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ozox5b606yp0if63
-
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
