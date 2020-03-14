@@ -2,3 +2,6 @@
 npm-debug.log
 .DS_Store
 /*.env
+
+process.env.DB_USER = root
+process.env.DB_PASSWORD = james2923
